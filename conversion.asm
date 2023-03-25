@@ -2,7 +2,6 @@
 
 .text
 conv:
-    # TODO: Write your function code here
 
     move $t0 $zero # z = 0
     move $t1 $zero # i = 0
